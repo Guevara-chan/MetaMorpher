@@ -2,6 +2,11 @@
 __MetaMorpher__ is a prototype nickname falsificator, based on shared apperence between small set of cyrillic and latin letters.
 Dated back to days, when _VBScript_ in browsers was still a thing, it serves mostly educational purpose for now.
 
+# /Featuræ/
+* Cool idea.
+* Cool icon.
+* Cool past.
+
 # /Reassembling/:
 __MetaMorpher__ was fully developed in [PureBasic v4.3](http://purebasic.com), though compatible with 5.40 (LTS).  
 To rebuild - compile `MetaMorpher.pb` as root sourcefile.
