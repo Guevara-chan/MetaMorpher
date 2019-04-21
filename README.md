@@ -8,7 +8,7 @@ Dated back to days, when _VBScript_ in browsers was still a thing, it serves mos
 * Cool past.
 
 # /Reassembling/:
-__MetaMorpher__ was fully developed in [PureBasic v4.3](http://purebasic.com), though compatible with 5.40 (LTS).  
+__MetaMorpher__ was fully developed in [PureBasic v4.3](http://purebasic.com), though compatible with _5.7x (LTS)_.  
 To rebuild - compile `MetaMorpher.pb` as root sourcefile.
 
 # /Brief samples of interfacing/:
